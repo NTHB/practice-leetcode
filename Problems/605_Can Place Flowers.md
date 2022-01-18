@@ -1,4 +1,4 @@
-##605. Can Place Flowers
+# 605. Can Place Flowers
 
 You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.
 
@@ -47,5 +47,5 @@ var canPlaceFlowers = function(flowerbed, n) {
 ```
 
 ## Key Idea
-* Assume that there are empty planting spot at the bourndary, both side
+* Assume that there are empty planting spots at the bourndary, both side
 * The only place to plant the flower is in the middle of three consecutive's empty spots
